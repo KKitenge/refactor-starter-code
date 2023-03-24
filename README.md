@@ -7,7 +7,7 @@ This project gives access to users who can look at the provided website HTML and
 or if it is in need of correction. If editing is needed, the aim is to gain knowledge with HMTL, CSS and 
 the workflow associated with Visual Code and command line interaction.
 
-[Live Site Link]( )
+[Live Site Link](https://kkitenge.github.io/refactor-starter-code)
 
 ## Code Snippet Example
 
